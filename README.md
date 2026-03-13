@@ -10,7 +10,9 @@ My name is Adam. I'm a Computer Science Major planning to graduate in Spring 202
 
 ## Tech Stack
 **Languages:** C/C++, C#, Java, Python, JavaScript, PHP, SQL, Bash
+
 **Development Environments:** Visual Studio, Eclipse, VS Code, Linux terminal, Unity
+
 **Areas:** System design and web development
 
 ## Featured Projects
